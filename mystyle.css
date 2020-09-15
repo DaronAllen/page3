@@ -1,5 +1,14 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: #4c8e31;
+  margin-left: 20px;
+  
 #wowie {
-padding: 60px
-border: 3px groove #FFF096:
-background: #FFF:
+padding: 60px;
+border: 3px groove #FFF096;
+background: #FFF;
+  width: 100%
 }
